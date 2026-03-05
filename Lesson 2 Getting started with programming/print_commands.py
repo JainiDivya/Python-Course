@@ -1,0 +1,5 @@
+print("Welcome to the world of coding")
+print(7)
+print("hello Python\n")
+name = input("Enter your name:")
+print("Hello", name, "Welcome to Codingal\n")
